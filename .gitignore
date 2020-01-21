@@ -1,3 +1,12 @@
+# Dont commit executables
+tree
+path
+
+# Ignore output farbfeld and SVG / PNG files
+*.ff
+*.svg
+*.png
+
 # Prerequisites
 *.d
 
