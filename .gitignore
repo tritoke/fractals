@@ -1,6 +1,6 @@
 # Dont commit executables
-tree
-path
+tree.exe
+path.exe
 
 # Ignore output farbfeld and SVG / PNG files
 *.ff
